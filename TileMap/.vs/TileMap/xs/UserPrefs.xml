@@ -1,0 +1,47 @@
+﻿<Properties StartupConfiguration="{5509486E-99F3-DEA3-F8A3-F43EB4049DAE}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/PennyPixel/Scripts/PlayerPlatformerController.cs">
+    <Files>
+      <File FileName="Assets/PennyPixel/Scripts/PlayerPlatformerController.cs" Line="46" Column="37" />
+      <File FileName="Assets/PennyPixel/Scripts/PhysicsObject.cs" Line="83" Column="21" />
+      <File FileName="Assets/Code/PlayerController.cs" Line="28" Column="30" />
+      <File FileName="Assets/Code/GameCOntroller.cs" Line="32" Column="13" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TileMap" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Code" expanded="True" />
+              <Node name="PennyPixel" expanded="True">
+                <Node name="Scripts" expanded="True">
+                  <Node name="PlayerPlatformerController.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="TileMap" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="b112183f-9296-460a-b010-0b8c366dc8a3" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/zhaoyuting/Downloads/资料/源码/TileMap/Assets/Code/GameCOntroller.cs" relfile="Assets/Code/GameCOntroller.cs" line="39" column="1" />
+      <Breakpoint file="/Users/zhaoyuting/Downloads/资料/源码/TileMap/Assets/PennyPixel/Scripts/PlayerPlatformerController.cs" relfile="Assets/PennyPixel/Scripts/PlayerPlatformerController.cs" line="35" column="1" />
+      <Breakpoint file="/Users/zhaoyuting/Downloads/资料/源码/TileMap/Assets/PennyPixel/Scripts/PlayerPlatformerController.cs" relfile="Assets/PennyPixel/Scripts/PlayerPlatformerController.cs" line="42" column="1" />
+      <Breakpoint file="/Users/zhaoyuting/Downloads/资料/源码/TileMap/Assets/PennyPixel/Scripts/PlayerPlatformerController.cs" relfile="Assets/PennyPixel/Scripts/PlayerPlatformerController.cs" line="50" column="1" />
+      <Breakpoint file="/Users/zhaoyuting/Downloads/资料/源码/TileMap/Assets/PennyPixel/Scripts/PlayerPlatformerController.cs" relfile="Assets/PennyPixel/Scripts/PlayerPlatformerController.cs" line="51" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
